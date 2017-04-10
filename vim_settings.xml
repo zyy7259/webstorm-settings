@@ -3,13 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/zhifuyun-wap/src/pay/pay.vue" timestamp="1491796990280">
+      <file name="$USER_HOME$/work/zhifuyun-wap/src/pay/pay.vue" timestamp="1491814118326">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="165" column="5" />
+        <mark key="]" line="165" column="4" />
+        <mark key="^" line="165" column="4" />
+        <mark key="." line="165" column="4" />
+      </file>
+      <file name="$USER_HOME$/work/wsc-wap/src/trade/random-order/order.vue" timestamp="1491813869377">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="38" column="19" />
       </file>
     </filemarks>
     <jumps>
       <jump line="28" column="29" filename="$USER_HOME$/work/zhifuyun-wap/src/pay/pay.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/work/zhifuyun-wap/src/pay/pay.vue" />
+      <jump line="53" column="0" filename="$USER_HOME$/work/wsc-wap/src/trade/random-order/order.vue" />
+      <jump line="52" column="0" filename="$USER_HOME$/work/wsc-wap/src/trade/random-order/order.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/wsc-wap/src/trade/random-order/order.vue" />
     </jumps>
     <registers />
     <search>
